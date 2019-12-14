@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "286118468617",
+    "firebase_url": "https://ambulance-80283.firebaseio.com",
+    "project_id": "ambulance-80283",
+    "storage_bucket": "ambulance-80283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286118468617:android:56b61c773b1b1fe421ecd8",
+        "android_client_info": {
+          "package_name": "com.example.demoabulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286118468617-pibo43misg9pnf6vhp2491291l2ggs3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXFBGM1xFBUngt30KRzEQZESjwsw9OZkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286118468617-pibo43misg9pnf6vhp2491291l2ggs3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286118468617:android:489535bbe91f01e021ecd8",
+        "android_client_info": {
+          "package_name": "com.halo.ambulightadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286118468617-lv93c5umrcn3oi787l7gpeuk5mh4gps1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halo.ambulightadmin",
+            "certificate_hash": "b4e014a16c39ae27ff5f45df17efe251680ce696"
+          }
+        },
+        {
+          "client_id": "286118468617-pibo43misg9pnf6vhp2491291l2ggs3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXFBGM1xFBUngt30KRzEQZESjwsw9OZkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286118468617-pibo43misg9pnf6vhp2491291l2ggs3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
